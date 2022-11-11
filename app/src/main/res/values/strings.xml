@@ -1,0 +1,9 @@
+<resources>
+        <string name="app_name">CONTACT S-An</string>
+        <string name="text_header">Pengirim Pesan</string>
+        <string name="button_main">Send</string>
+        <string name="editText_main">Masukan Pesan</string>
+        <string name="text_header_reply">Penerima Pesan</string>
+        <string name="editText_second">Reply Pesan</string>
+        <string name="button_second">Send</string>
+</resources>
